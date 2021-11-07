@@ -1,0 +1,48 @@
+[03-11-2021 08:38:33] function LEAccount __construct:
+No account found, attempting to create account.
+
+[03-11-2021 08:38:36] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 08:38:36] function LEOrder __construct:
+No order found for 'thetrashgods.com'. Creating new order.
+
+[03-11-2021 08:38:40] function createOrder (function LEOrder __construct):
+Created order for 'thetrashgods.com'.
+
+[03-11-2021 08:38:43] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 08:38:44] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:14:20] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:14:22] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:14:26] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:14:26] function LEOrder __construct:
+Order data for 'thetrashgods.com' invalid. Deleting order data and creating new order.
+
+[03-11-2021 14:14:29] function createOrder (function LEOrder __construct):
+Created order for 'thetrashgods.com'.
+
+[03-11-2021 14:15:32] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:15:33] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:15:42] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:15:44] function LEClient __construct:
+LEClient finished constructing
+
+[03-11-2021 14:15:45] function LEClient __construct:
+LEClient finished constructing
+

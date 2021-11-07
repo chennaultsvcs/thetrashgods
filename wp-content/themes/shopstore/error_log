@@ -1,0 +1,52 @@
+[27-Oct-2021 18:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[28-Oct-2021 07:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[28-Oct-2021 19:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[29-Oct-2021 06:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[29-Oct-2021 18:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[30-Oct-2021 06:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[30-Oct-2021 19:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[31-Oct-2021 06:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[31-Oct-2021 18:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[01-Nov-2021 06:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[01-Nov-2021 18:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[02-Nov-2021 06:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15
+[02-Nov-2021 19:00:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/thetwhna/public_html/wp-content/themes/shopstore/index.php on line 15

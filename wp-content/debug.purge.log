@@ -1,0 +1,294 @@
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] Query String: page=litespeed-toolbox
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=litespeed-toolbox
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.27 Safari/537.36
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] Accept Encoding: gzip, deflate, br
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] X-LSCACHE: true
+11/03/21 05:04:37.030 [68.201.19.41:37814 1 zAc] LSCACHE_VARY_VALUE: +webp
+11/03/21 05:04:37.031 [68.201.19.41:37814 1 zAc] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] Query String: 
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] HTTP_REFERER: https://thetrashgods.com/wp-admin/customize.php?autofocus%5Bpanel%5D=nav_menus&return=%2Fwp-admin%2Fnav-menus.php%3Faction%3Dedit%26menu%3D0
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.27 Safari/537.36
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] Accept: */*
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] Accept Encoding: gzip, deflate, br
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/03/21 22:32:40.760 [68.201.19.41:55980 1 LEX] X-LSCACHE: true
+11/03/21 22:32:40.761 [68.201.19.41:55980 1 LEX] X-LiteSpeed-Purge: public,stale,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] Query String: 
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] HTTP_REFERER: https://thetrashgods.com/wp-admin/customize.php?autofocus%5Bpanel%5D=nav_menus&return=%2Fwp-admin%2Fnav-menus.php%3Faction%3Dedit%26menu%3D0
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.27 Safari/537.36
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] Accept: */*
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] Accept Encoding: gzip, deflate, br
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] X-LSCACHE: true
+11/03/21 22:33:31.521 [68.201.19.41:59188 1 TKK] X-LiteSpeed-Purge: public,stale,043_Po.113,043_URL./2021/11/03/113/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST,043_Po.111,043_URL./,043_Po.112,043_URL./2021/11/03/9084d088-96a4-4fae-890e-e59f077ab435/ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/edit.php
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] Query String: action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=d2ce9fab20
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] HTTP_REFERER: https://thetrashgods.com/wp-admin/nav-menus.php?action=edit&menu=0
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.27 Safari/537.36
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] Accept Encoding: gzip, deflate, br
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] X-LSCACHE: true
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] LSCACHE_VARY_VALUE: +webp
+11/03/21 22:34:55.438 [68.201.19.41:35892 1 aGx] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] Query String: _fs_blog_admin=true
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] HTTP_REFERER: https://thetrashgods.com/wp-admin/themes.php?page=hfe-about
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] Accept: */*
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] Accept Encoding: gzip, deflate, br
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] X-LSCACHE: true
+11/04/21 21:27:53.506 [68.201.19.41:54252 1 HQO] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/post.php
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] Query String: 
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] HTTP_REFERER: https://thetrashgods.com/wp-admin/post-new.php?post_type=elementor-hf&wp-post-new-reload=true
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] Accept Encoding: gzip, deflate, br
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] X-LSCACHE: true
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] LSCACHE_VARY_VALUE: +webp
+11/04/21 21:32:46.578 [68.201.19.41:54316 1 DTg] X-LiteSpeed-Purge: public,stale,043_Po.124,043_URL./home/elementor-hf/the-trash-gods/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/post.php
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] Query String: 
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=124&action=edit
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] Accept Encoding: gzip, deflate, br
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] X-LSCACHE: true
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] LSCACHE_VARY_VALUE: +webp
+11/04/21 21:34:22.061 [68.201.19.41:36150 1 5dW] X-LiteSpeed-Purge: public,stale,043_Po.124,043_URL./home/elementor-hf/the-trash-gods/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] Query String: _fs_blog_admin=true
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=eael-settings
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] Accept: */*
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] Accept Encoding: gzip, deflate, br
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] X-LSCACHE: true
+11/04/21 21:34:53.366 [68.201.19.41:38360 1 ScF] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] Query String: _fs_blog_admin=true
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=eael-settings
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] Accept: */*
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] Accept Encoding: gzip, deflate, br
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] X-LSCACHE: true
+11/04/21 21:40:57.800 [68.201.19.41:46220 1 oPK] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] Query String: _fs_blog_admin=true
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=eael-settings
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] Accept: */*
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] Accept Encoding: gzip, deflate, br
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] X-LSCACHE: true
+11/04/21 21:41:08.299 [68.201.19.41:46872 1 HrC] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] Query String: _fs_blog_admin=true
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] HTTP_REFERER: https://thetrashgods.com/wp-admin/import.php
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] Accept: */*
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] Accept Encoding: gzip, deflate, br
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] X-LSCACHE: true
+11/04/21 21:45:16.739 [68.201.19.41:40368 1 bAi] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] Query String: 
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] Accept: application/json, text/plain, */*
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] Accept Encoding: gzip, deflate, br
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] X-LSCACHE: true
+11/04/21 22:13:32.257 [68.201.19.41:39724 1 ACd] X-LiteSpeed-Purge: public,043_ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] 💓 ------POST HTTP/1.1 (HTTPS)  /home/wp-json/wp/v2/pages/111
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] Query String: _locale=user
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] Accept: application/json, */*;q=0.1
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] Accept Encoding: gzip, deflate, br
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:14:28.974 [68.201.19.41:44060 1 1ld] X-LSCACHE: true
+11/04/21 22:14:28.975 [68.201.19.41:44060 1 1ld] X-LiteSpeed-Purge: public,stale,043_Po.111,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/post.php
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] Query String: post=111&action=edit&meta-box-loader=1&meta-box-loader-nonce=337b5a49b7&_locale=user
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] Accept: application/json, */*;q=0.1
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] Accept Encoding: gzip, deflate, br
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] X-LSCACHE: true
+11/04/21 22:14:31.708 [68.201.19.41:44238 1 Hes] X-LiteSpeed-Purge: public,stale,043_Po.111,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] 💓 ------POST HTTP/1.1 (HTTPS)  /home/wp-json/wp/v2/pages/111
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] Query String: _locale=user
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] Accept: application/json, */*;q=0.1
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] Accept Encoding: gzip, deflate, br
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] X-LSCACHE: true
+11/04/21 22:19:34.981 [68.201.19.41:41768 1 GL3] X-LiteSpeed-Purge: public,stale,043_Po.111,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/post.php
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] Query String: post=111&action=edit&meta-box-loader=1&meta-box-loader-nonce=337b5a49b7&_locale=user
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] Accept: application/json, */*;q=0.1
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] Accept Encoding: gzip, deflate, br
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] X-LSCACHE: true
+11/04/21 22:19:36.035 [68.201.19.41:41854 1 6tY] X-LiteSpeed-Purge: public,stale,043_Po.111,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] 💓 ------POST HTTP/1.1 (HTTPS)  /home/wp-json/wp/v2/pages/111
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] Query String: _locale=user
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] HTTP_REFERER: https://thetrashgods.com/wp-admin/post.php?post=111&action=edit
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] Accept: application/json, */*;q=0.1
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] Accept Encoding: gzip, deflate, br
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:20:06.816 [68.201.19.41:44076 1 en6] X-LSCACHE: true
+11/04/21 22:20:06.817 [68.201.19.41:44076 1 en6] X-LiteSpeed-Purge: public,stale,043_Po.111,043_URL./home/home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST,043_URL./home/ => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-post.php
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] Query String: 
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=tablepress_import
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] Accept Encoding: gzip, deflate, br
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] X-LSCACHE: true
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] LSCACHE_VARY_VALUE: +webp
+11/04/21 22:45:13.776 [68.201.19.41:40608 1 Q7Y] X-LiteSpeed-Purge: public,stale,043_Po.132,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin-post.php
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] Query String: action=tablepress_delete_table&item=1&return=edit&return_item=1&_wpnonce=ed79595b58
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=tablepress&action=edit&table_id=1
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] Accept Encoding: gzip, deflate, br
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] X-LSCACHE: true
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] LSCACHE_VARY_VALUE: +webp
+11/04/21 22:48:15.927 [68.201.19.41:34948 1 cxh] X-LiteSpeed-Purge: public,stale,043_Po.132,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/04/21 22:48:40.393 [68.201.19.41:36708 1 0H1] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-post.php
+11/04/21 22:48:40.393 [68.201.19.41:36708 1 0H1] Query String: 
+11/04/21 22:48:40.393 [68.201.19.41:36708 1 0H1] HTTP_REFERER: https://thetrashgods.com/wp-admin/admin.php?page=tablepress_add
+11/04/21 22:48:40.393 [68.201.19.41:36708 1 0H1] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] Accept Encoding: gzip, deflate, br
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] X-LSCACHE: true
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] LSCACHE_VARY_VALUE: +webp
+11/04/21 22:48:40.394 [68.201.19.41:36708 1 0H1] X-LiteSpeed-Purge: public,stale,043_Po.133,043_URL./home/,043_W.recent-posts-1,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
+
+
+
+
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/post.php
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] Query String: post=115&action=trash&_wpnonce=2ca8e1add0
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] HTTP_REFERER: https://thetrashgods.com/wp-admin/edit.php?post_type=e-landing-page
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.35 Safari/537.36
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] Accept Encoding: gzip, deflate, br
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] X-LSCACHE: true
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] LSCACHE_VARY_VALUE: +webp
+11/05/21 09:28:56.605 [68.201.19.41:40498 1 hD6] X-LiteSpeed-Purge: public,stale,043_Po.115,043_URL./home/,043_W.recent-posts-1,043_T.31,043_FD,043_A.1,043_F,043_H,043_PGS,043_PGSRP,043_D.202111,043_REST => LiteSpeed\LSC->send_headers()@552 => WP_Hook->apply_filters(ARRAY)@303 => WP_Hook->do_action(ARRAY)@327 => 
+/home/thetwhna/public_html/wp-includes/load.php@470
